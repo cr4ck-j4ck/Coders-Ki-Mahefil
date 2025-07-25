@@ -4,8 +4,8 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Coders Ki Mahefil',
+  description: 'Join a unique Discord community where coders share poetry, tech talk, and chai vibes. Mushairas every Saturday. All hearts welcome!',
   generator: 'v0.dev',
 }
 
